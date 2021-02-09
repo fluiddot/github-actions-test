@@ -5,7 +5,7 @@
     "start": "react-native start"
   },
   "dependencies": {
-    "@react-native-community/masked-view": "https://github.com/wordpress-mobile/react-native-masked-view/archive/v0.1.10-wp.tar.gz",
+    "@react-native-community/masked-view": "git+https://git@github.com/wordpress-mobile/react-native-masked-view",
     "react": "16.13.1",
     "react-native": "^0.63.4"
   }
