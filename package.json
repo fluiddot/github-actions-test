@@ -1,0 +1,12 @@
+{
+  "name": "github-actions-test",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "@react-native-community/masked-view": "github:wordpress-mobile/react-native-masked-view#f65a51a3320e58404d7f38d967bfd1f42b439ca9",
+    "react": "16.13.1",
+    "react-native": "^0.63.4"
+  }
+}
